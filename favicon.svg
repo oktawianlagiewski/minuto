@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Minuto mark: an hour ring with ten minutes left open; the dot is the free slot. -->
+  <path d="M54.82 18.83 A26.35 26.35 0 1 1 32 5.65" stroke="#5546F0" stroke-width="11.3" stroke-linecap="round"/>
+  <circle cx="45.18" cy="9.18" r="5" fill="#5546F0"/>
+</svg>
